@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+M:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/sim/cordic_0.vhd,1725883484,vhdl,,,,cordic_0,,,,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v,1725885966,verilog,,,,test,,,../../../../sincos.srcs/sources_1/new,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/CORDIC.v,1725885966,verilog,,M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/trig_table.v,M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/atan_table.vh,CORDIC,,,../../../../sincos.srcs/sources_1/new,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/atan_table.vh,1725885966,verilog,,,,,,,,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/cos_table.vh,1725281116,verilog,,,,,,,,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/sin_table.vh,1725281116,verilog,,,,,,,,,,,,
+M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/trig_table.v,1725281116,verilog,,M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v,M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/sin_table.vh;M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sources_1/new/cos_table.vh,trig_table,,,../../../../sincos.srcs/sources_1/new,,,,,

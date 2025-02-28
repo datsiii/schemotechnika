@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_fsm_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_fsm" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="630.001 ns"></ZoomEndTime>
+      <Cursor1Time time="184.844 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="316"></NameColumnWidth>
+      <ValueColumnWidth column_width="125"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/test_fsm/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/R_I" type="logic">
+      <obj_property name="ElementShortName">R_I</obj_property>
+      <obj_property name="ObjectShortName">R_I</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/R_O" type="logic">
+      <obj_property name="ElementShortName">R_O</obj_property>
+      <obj_property name="ObjectShortName">R_O</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/dataIn" type="array">
+      <obj_property name="ElementShortName">dataIn[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dataIn[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/dataOut" type="array">
+      <obj_property name="ElementShortName">dataOut[239:0]</obj_property>
+      <obj_property name="ObjectShortName">dataOut[239:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_fsm/fsm1/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+</wave_config>

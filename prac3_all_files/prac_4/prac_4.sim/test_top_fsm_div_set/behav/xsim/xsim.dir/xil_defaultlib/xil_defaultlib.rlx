@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.sim/test_top_fsm_div_set/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/clk_div.v,1711647288,verilog,,D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/filter.v,,clk_div,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/filter.v,1711647354,verilog,,D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/fsm_div.v,,FILTER,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/fsm_div.v,1711647392,verilog,,D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/seven_seg.v,,fsm_div,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/seven_seg.v,1711647437,verilog,,D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/top_fsm_div.v,,seven_seg,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/top_fsm_div.v,1711647486,verilog,,D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/testbenches/test_top_fsm_div_set/test_top_fsm_div.v,,top_fsm_div,,,,,,,,
+D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/testbenches/test_top_fsm_div_set/test_top_fsm_div.v,1711649709,verilog,,,,test_top_fsm_div,,,,,,,,

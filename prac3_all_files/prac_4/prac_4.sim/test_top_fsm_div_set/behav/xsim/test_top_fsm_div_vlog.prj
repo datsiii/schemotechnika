@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../prac_4.srcs/designs/clk_div.v" \
+"../../../../prac_4.srcs/designs/filter.v" \
+"../../../../prac_4.srcs/designs/fsm_div.v" \
+"../../../../prac_4.srcs/designs/seven_seg.v" \
+"../../../../prac_4.srcs/designs/top_fsm_div.v" \
+"../../../../prac_4.srcs/testbenches/test_top_fsm_div_set/test_top_fsm_div.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
++====================+===================+=================+
+| Launch Setup Clock | Launch Hold Clock | Pin             |
++====================+===================+=================+
+| clk                | clk               | ffout_reg[31]/D |
+| clk                | clk               | ffout_reg[25]/D |
+| clk                | clk               | ffout_reg[28]/D |
+| clk                | clk               | ffout_reg[23]/D |
+| clk                | clk               | ffout_reg[17]/D |
+| clk                | clk               | ffout_reg[20]/D |
+| clk                | clk               | ffout_reg[15]/D |
+| clk                | clk               | ffout_reg[12]/D |
++--------------------+-------------------+-----------------+

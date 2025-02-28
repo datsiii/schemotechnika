@@ -1,0 +1,2 @@
+vio_1.v,verilog,xil_defaultlib,../../../../circuit_practica_3.gen/sources_1/ip/vio_1/sim/vio_1.v,incdir="../../../../circuit_practica_3.gen/sources_1/ip/vio_1/hdl/verilog"incdir="../../../../circuit_practica_3.gen/sources_1/ip/vio_1/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

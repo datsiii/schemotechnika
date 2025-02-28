@@ -1,0 +1,32 @@
++====================+===================+=============================+
+| Launch Setup Clock | Launch Hold Clock | Pin                         |
++====================+===================+=============================+
+| clk                | clk               | genblk1[23].Y_reg[24][29]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][31]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][28]/D |
+| clk                | clk               | genblk1[2].Y_reg[3][29]/D   |
+| clk                | clk               | genblk1[29].Y_reg[30][31]/D |
+| clk                | clk               | genblk1[24].Y_reg[25][31]/D |
+| clk                | clk               | genblk1[18].X_reg[19][31]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][25]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][27]/D |
+| clk                | clk               | genblk1[25].X_reg[26][31]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][24]/D |
+| clk                | clk               | genblk1[12].X_reg[13][31]/D |
+| clk                | clk               | genblk1[2].Y_reg[3][28]/D   |
+| clk                | clk               | genblk1[24].Y_reg[25][30]/D |
+| clk                | clk               | genblk1[12].Y_reg[13][31]/D |
+| clk                | clk               | genblk1[14].X_reg[15][25]/D |
+| clk                | clk               | genblk1[0].X_reg[1][21]/D   |
+| clk                | clk               | genblk1[18].X_reg[19][27]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][21]/D |
+| clk                | clk               | genblk1[10].Y_reg[11][25]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][23]/D |
+| clk                | clk               | genblk1[25].X_reg[26][28]/D |
+| clk                | clk               | genblk1[25].X_reg[26][29]/D |
+| clk                | clk               | genblk1[12].X_reg[13][28]/D |
+| clk                | clk               | genblk1[12].X_reg[13][29]/D |
+| clk                | clk               | genblk1[25].X_reg[26][27]/D |
+| clk                | clk               | genblk1[23].Y_reg[24][20]/D |
+| clk                | clk               | genblk1[12].X_reg[13][27]/D |
++--------------------+-------------------+-----------------------------+

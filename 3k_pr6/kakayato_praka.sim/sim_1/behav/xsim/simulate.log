@@ -1,0 +1,206 @@
+Time resolution is 1 ps
+
+Time: 30 ns Started: 10 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 30 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 6.25 %
+Coverage cp3 = 6.25 %
+Coverage = 6.25 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 90 ns Started: 70 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 90 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 110 ns Started: 90 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 110 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 12.50 %
+Coverage cp3 = 12.50 %
+Coverage = 12.50 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 170 ns Started: 150 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 170 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 190 ns Started: 170 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 190 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 18.75 %
+Coverage cp3 = 12.50 %
+Coverage = 16.67 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 250 ns Started: 230 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 250 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 270 ns Started: 250 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 270 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 25.00 %
+Coverage cp3 = 12.50 %
+Coverage = 20.83 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 330 ns Started: 310 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 330 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 350 ns Started: 330 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 350 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 31.25 %
+Coverage cp3 = 12.50 %
+Coverage = 25.00 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 410 ns Started: 390 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 410 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 430 ns Started: 410 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 430 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 37.50 %
+Coverage cp3 = 18.75 %
+Coverage = 31.25 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 490 ns Started: 470 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 490 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 510 ns Started: 490 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 510 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 43.75 %
+Coverage cp3 = 18.75 %
+Coverage = 35.42 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 570 ns Started: 550 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Info: Div is correct
+Time: 570 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 69
+
+Time: 590 ns Started: 570 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 590 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 50.00 %
+Coverage cp3 = 18.75 %
+Coverage = 39.58 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 650 ns Started: 630 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Info: Div is correct
+Time: 650 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 69
+
+Time: 670 ns Started: 650 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 670 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 56.25 %
+Coverage cp3 = 25.00 %
+Coverage = 45.83 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 730 ns Started: 710 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 730 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 750 ns Started: 730 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 750 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 62.50 %
+Coverage cp3 = 25.00 %
+Coverage = 50.00 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 810 ns Started: 790 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 810 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 830 ns Started: 810 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 830 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 68.75 %
+Coverage cp3 = 25.00 %
+Coverage = 54.17 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 890 ns Started: 870 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Info: Div is correct
+Time: 890 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 69
+
+Time: 910 ns Started: 890 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 910 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 75.00 %
+Coverage cp3 = 25.00 %
+Coverage = 58.33 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 970 ns Started: 950 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:59
+Info: Error is working!
+Time: 970 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 60
+
+Time: 990 ns Started: 970 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 990 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 81.25 %
+Coverage cp3 = 25.00 %
+Coverage = 62.50 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 1050 ns Started: 1030 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Info: Div is correct
+Time: 1050 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 69
+
+Time: 1070 ns Started: 1050 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 1070 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 87.50 %
+Coverage cp3 = 25.00 %
+Coverage = 66.67 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 1130 ns Started: 1110 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 1130 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 1150 ns Started: 1130 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 1150 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 93.75 %
+Coverage cp3 = 25.00 %
+Coverage = 70.83 %
+~~~~~~~~~~~~~~~~~~~
+
+
+Time: 1210 ns Started: 1190 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:68
+Error: Div is not correct...
+Time: 1210 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 71
+
+Time: 1230 ns Started: 1210 ns Scope: /tb File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line:49
+Info: All regesters are nulls!
+Time: 1230 ns  Iteration: 1  Process: /tb//tb  Scope: tb  File: D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv Line: 50
+Coverage cp2 = 100.00 %
+Coverage cp3 = 25.00 %
+Coverage = 75.00 %
+~~~~~~~~~~~~~~~~~~~
+
+$finish called at time : 1270 ns : File "D:/schemotechnika/3k_pr6/kakayato_praka.srcs/sim_1/new/tb.sv" Line 94

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Nov 25 14:47:40 2024
+# Process ID: 9760
+# Current directory: C:/Shemach/SEM_2/kakayato_praka/kakayato_praka.runs/synth_1
+# Command line: vivado.exe -log sum.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sum.tcl
+# Log file: C:/Shemach/SEM_2/kakayato_praka/kakayato_praka.runs/synth_1/sum.vds
+# Journal file: C:/Shemach/SEM_2/kakayato_praka/kakayato_praka.runs/synth_1\vivado.jou
+# Running On: LAPTOP-UN75VGF2, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8432 MB
+#-----------------------------------------------------------
+source sum.tcl -notrace

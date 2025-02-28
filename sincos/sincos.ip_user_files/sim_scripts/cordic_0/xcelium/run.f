@@ -1,0 +1,37 @@
+-makelib xcelium_lib/xbip_utils_v3_0_10 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_utils_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/c_reg_fd_v12_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/c_reg_fd_v12_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xbip_dsp48_wrapper_v3_0_4 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xbip_pipe_v3_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_pipe_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xbip_dsp48_addsub_v3_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xbip_addsub_v3_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_addsub_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/c_addsub_v12_0_14 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/c_addsub_v12_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xbip_bram18k_v3_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/xbip_bram18k_v3_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/mult_gen_v12_0_18 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/mult_gen_v12_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/axi_utils_v2_0_6 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/axi_utils_v2_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/cordic_v6_0_18 \
+  "m:/2010/IVBO0722/ALEEV/sincos/sincos.gen/sources_1/ip/cordic_0/hdl/cordic_v6_0_vh_rfs.vhd" \
+-endlib
+-makelib xcelium_lib/xil_defaultlib \
+  "../../../../sincos.gen/sources_1/ip/cordic_0/sim/cordic_0.vhd" \
+-endlib
+

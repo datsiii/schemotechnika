@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../3k_colloqium1.srcs/sources_1/new/angle_converter.v" \
+"../../../../3k_colloqium1.srcs/sources_1/new/d_ff_reg_encoder.v" \
+"../../../../3k_colloqium1.srcs/sources_1/new/reg_mux_decoder.v" \
+"../../../../3k_colloqium1.srcs/sources_1/new/top_2.v" \
+"../../../../3k_colloqium1.srcs/sim_1/new/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

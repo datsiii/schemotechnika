@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'stage' is not allowed [D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/cpu.v:34]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/3k_prac3/3k_prac3.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test

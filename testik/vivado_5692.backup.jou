@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri Sep 20 09:18:09 2024
+# Process ID: 5692
+# Current directory: D:/me/UNI/5_semester/schemo2.0/testik
+# Command line: vivado.exe D:\me\UNI\5_semester\schemo2.0\testik\testik.xpr
+# Log file: D:/me/UNI/5_semester/schemo2.0/testik/vivado.log
+# Journal file: D:/me/UNI/5_semester/schemo2.0/testik\vivado.jou
+# Running On: DESKTOP-MHCIQLG, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 8, Host memory: 16869 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/me/UNI/5_semester/schemo2.0/testik/testik.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+set_property target_constrs_file D:/me/UNI/5_semester/schemo2.0/testik/testik.srcs/constrs_5/new/constr.xdc [current_fileset -constrset]
+set_property is_enabled true [get_files  D:/me/UNI/5_semester/schemo2.0/testik/testik.srcs/constrs_5/new/constr.xdc]
+launch_simulation
+set_property is_enabled false [get_files  D:/me/UNI/5_semester/schemo2.0/testik/testik.srcs/constrs_5/new/scr.tcl]
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source test.tcl
+close_sim
+launch_simulation
+source test.tcl
+close_sim
+launch_simulation
+source test.tcl
+close_sim
+launch_simulation
+source test.tcl
+save_wave_config {D:/me/UNI/5_semester/schemo2.0/testik/test_behav.wcfg}
+add_files -fileset sim_1 -norecurse D:/me/UNI/5_semester/schemo2.0/testik/test_behav.wcfg
+set_property xsim.view D:/me/UNI/5_semester/schemo2.0/testik/test_behav.wcfg [get_filesets sim_1]
+close_sim

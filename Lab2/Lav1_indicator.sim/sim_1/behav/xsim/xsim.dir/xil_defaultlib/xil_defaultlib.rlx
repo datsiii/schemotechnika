@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Vivado/Lab/Lab2/Lav1_indicator.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/test_fsm.v,1713088800,verilog,,,,test_fsm,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/testbench.v,1713086312,verilog,,,,testbench,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/Controller.v,1713086030,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/SevenSegmentLED.v,,Controller,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/SevenSegmentLED.v,1711314279,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/cnt.v,,SevenSegmentLED,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/cnt.v,1711290561,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/debouncer.v,,cnt,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/debouncer.v,1711830607,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/divider.v,,debouncer,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/divider.v,1709628266,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/fsm.v,,divider,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/fsm.v,1713087262,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/test_fsm.v,,fsm,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sources_1/new/sync.v,1708365516,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/testbench.v,,sync,,,,,,,,

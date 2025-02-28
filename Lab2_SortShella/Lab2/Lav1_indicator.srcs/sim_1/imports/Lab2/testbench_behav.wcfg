@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="53.256000 us"></ZoomEndTime>
+      <Cursor1Time time="4.246326 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="316"></NameColumnWidth>
+      <ValueColumnWidth column_width="113"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/clk_d" type="logic">
+      <obj_property name="ElementShortName">clk_d</obj_property>
+      <obj_property name="ObjectShortName">clk_d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/button_signal_en" type="logic">
+      <obj_property name="ElementShortName">button_signal_en</obj_property>
+      <obj_property name="ObjectShortName">button_signal_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/reset_signal_en" type="logic">
+      <obj_property name="ElementShortName">reset_signal_en</obj_property>
+      <obj_property name="ObjectShortName">reset_signal_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/DONE" type="logic">
+      <obj_property name="ElementShortName">DONE</obj_property>
+      <obj_property name="ObjectShortName">DONE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ERR" type="logic">
+      <obj_property name="ElementShortName">ERR</obj_property>
+      <obj_property name="ObjectShortName">ERR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/position" type="array">
+      <obj_property name="ElementShortName">position[15:0]</obj_property>
+      <obj_property name="ObjectShortName">position[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/SWITCHES" type="array">
+      <obj_property name="ElementShortName">SWITCHES[15:0]</obj_property>
+      <obj_property name="ObjectShortName">SWITCHES[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/NUMBER" type="array">
+      <obj_property name="ElementShortName">NUMBER[31:0]</obj_property>
+      <obj_property name="ObjectShortName">NUMBER[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/AN_MASK" type="array">
+      <obj_property name="ElementShortName">AN_MASK[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN_MASK[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/SEG" type="array">
+      <obj_property name="ElementShortName">SEG[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SEG[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/R_O" type="logic">
+      <obj_property name="ElementShortName">R_O</obj_property>
+      <obj_property name="ObjectShortName">R_O</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/fsm/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/cntlr/fsmOut" type="array">
+      <obj_property name="ElementShortName">fsmOut[255:0]</obj_property>
+      <obj_property name="ObjectShortName">fsmOut[255:0]</obj_property>
+   </wvobject>
+</wave_config>

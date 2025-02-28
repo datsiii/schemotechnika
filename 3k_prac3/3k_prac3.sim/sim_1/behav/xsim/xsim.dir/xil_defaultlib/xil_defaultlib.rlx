@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/schemotechnika/3k_prac3/3k_prac3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/schemotechnika/3k_prac3/3k_prac3.srcs/sim_1/new/test.v,1729234669,verilog,,,,test,,,,,,,,
+D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/cpu.v,1729235458,verilog,,D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/reg_file.v,,cpu,,,,,,,,
+D:/schemotechnika/3k_prac3/3k_prac3.srcs/sources_1/new/reg_file.v,1728302116,verilog,,D:/schemotechnika/3k_prac3/3k_prac3.srcs/sim_1/new/test.v,,reg_file,,,,,,,,

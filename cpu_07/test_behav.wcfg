@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test_bench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="154.600 ns"></ZoomStartTime>
+      <ZoomEndTime time="322.101 ns"></ZoomEndTime>
+      <Cursor1Time time="235.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="76"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/test_bench/uut/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/pc" type="array">
+      <obj_property name="ElementShortName">pc[5:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/cmd_reg" type="array">
+      <obj_property name="ElementShortName">cmd_reg[0:4][39:0]</obj_property>
+      <obj_property name="ObjectShortName">cmd_reg[0:4][39:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/test_bench/uut/cmd_reg[0]" type="array">
+         <obj_property name="ElementShortName">[0][39:0]</obj_property>
+         <obj_property name="ObjectShortName">[0][39:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test_bench/uut/cmd_reg[1]" type="array">
+         <obj_property name="ElementShortName">[1][39:0]</obj_property>
+         <obj_property name="ObjectShortName">[1][39:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test_bench/uut/cmd_reg[2]" type="array">
+         <obj_property name="ElementShortName">[2][39:0]</obj_property>
+         <obj_property name="ObjectShortName">[2][39:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test_bench/uut/cmd_reg[3]" type="array">
+         <obj_property name="ElementShortName">[3][39:0]</obj_property>
+         <obj_property name="ObjectShortName">[3][39:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/test_bench/uut/cmd_reg[4]" type="array">
+         <obj_property name="ElementShortName">[4][39:0]</obj_property>
+         <obj_property name="ObjectShortName">[4][39:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH/POH" type="array">
+      <obj_property name="ElementShortName">POH[0:8][31:0]</obj_property>
+      <obj_property name="ObjectShortName">POH[0:8][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/data_mem" type="array">
+      <obj_property name="ElementShortName">data_mem[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_mem[0:31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_AdrA" type="array">
+      <obj_property name="ElementShortName">POH_AdrA[3:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_AdrA[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_AdrB" type="array">
+      <obj_property name="ElementShortName">POH_AdrB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_AdrB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/alu_op1" type="array">
+      <obj_property name="ElementShortName">alu_op1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_op1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_alu_op1" type="array">
+      <obj_property name="ElementShortName">next_alu_op1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">next_alu_op1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/alu_op2" type="array">
+      <obj_property name="ElementShortName">alu_op2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_op2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_alu_op2" type="array">
+      <obj_property name="ElementShortName">next_alu_op2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">next_alu_op2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/alu_res" type="array">
+      <obj_property name="ElementShortName">alu_res[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_res[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_alu_res" type="array">
+      <obj_property name="ElementShortName">next_alu_res[31:0]</obj_property>
+      <obj_property name="ObjectShortName">next_alu_res[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/alu_res2" type="array">
+      <obj_property name="ElementShortName">alu_res2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_res2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_alu_res2" type="array">
+      <obj_property name="ElementShortName">next_alu_res2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">next_alu_res2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/mem_addr_write" type="array">
+      <obj_property name="ElementShortName">mem_addr_write[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_addr_write[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/mem_data_write" type="array">
+      <obj_property name="ElementShortName">mem_data_write[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_data_write[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/mem_Wen" type="logic">
+      <obj_property name="ElementShortName">mem_Wen</obj_property>
+      <obj_property name="ObjectShortName">mem_Wen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_Wen" type="logic">
+      <obj_property name="ElementShortName">POH_Wen</obj_property>
+      <obj_property name="ObjectShortName">POH_Wen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_W_addr" type="array">
+      <obj_property name="ElementShortName">POH_W_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_W_addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_W_data" type="array">
+      <obj_property name="ElementShortName">POH_W_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_W_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_out_a" type="array">
+      <obj_property name="ElementShortName">POH_out_a[31:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_out_a[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/POH_out_b" type="array">
+      <obj_property name="ElementShortName">POH_out_b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">POH_out_b[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/prog_mem" type="array">
+      <obj_property name="ElementShortName">prog_mem[0:63][39:0]</obj_property>
+      <obj_property name="ObjectShortName">prog_mem[0:63][39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_pc" type="array">
+      <obj_property name="ElementShortName">next_pc[5:0]</obj_property>
+      <obj_property name="ObjectShortName">next_pc[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/lz" type="logic">
+      <obj_property name="ElementShortName">lz</obj_property>
+      <obj_property name="ObjectShortName">lz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_lz" type="logic">
+      <obj_property name="ElementShortName">next_lz</obj_property>
+      <obj_property name="ObjectShortName">next_lz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/next_cmd_reg" type="array">
+      <obj_property name="ElementShortName">next_cmd_reg[0:4][39:0]</obj_property>
+      <obj_property name="ObjectShortName">next_cmd_reg[0:4][39:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/cop" type="array">
+      <obj_property name="ElementShortName">cop[0:4][3:0]</obj_property>
+      <obj_property name="ObjectShortName">cop[0:4][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/cmd_addr1" type="array">
+      <obj_property name="ElementShortName">cmd_addr1[0:4][3:0]</obj_property>
+      <obj_property name="ObjectShortName">cmd_addr1[0:4][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/cmd_addr2" type="array">
+      <obj_property name="ElementShortName">cmd_addr2[0:4][3:0]</obj_property>
+      <obj_property name="ObjectShortName">cmd_addr2[0:4][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/literal" type="array">
+      <obj_property name="ElementShortName">literal[0:4][31:0]</obj_property>
+      <obj_property name="ObjectShortName">literal[0:4][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/addr_to_jmp" type="array">
+      <obj_property name="ElementShortName">addr_to_jmp[0:4][5:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_to_jmp[0:4][5:0]</obj_property>
+   </wvobject>
+</wave_config>

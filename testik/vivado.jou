@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Sep 30 14:23:53 2024
+# Process ID: 10508
+# Current directory: C:/me/UNI/5_semester/schemo2.0/testik
+# Command line: vivado.exe C:\me\UNI\5_semester\schemo2.0\testik\testik.xpr
+# Log file: C:/me/UNI/5_semester/schemo2.0/testik/vivado.log
+# Journal file: C:/me/UNI/5_semester/schemo2.0/testik\vivado.jou
+# Running On: DESKTOP-REPQ0JV, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 12, Host memory: 16469 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/me/UNI/5_semester/schemo2.0/testik/testik.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -jobs 6
+wait_on_run impl_1
+open_run impl_1
+set_property is_enabled false [get_files  C:/me/UNI/5_semester/schemo2.0/testik/testik.srcs/constrs_5/new/constr.xdc]
+set_property is_enabled true [get_files  C:/me/UNI/5_semester/schemo2.0/testik/testik.srcs/constrs_5/new/scr.tcl]
+reset_run synth_1
+launch_runs synth_1 -jobs 6
+wait_on_run synth_1
+launch_runs impl_1 -jobs 6
+wait_on_run impl_1
+refresh_design
+reset_run synth_1
+launch_runs synth_1 -jobs 6
+wait_on_run synth_1
+launch_runs impl_1 -jobs 6
+wait_on_run impl_1
+reset_run impl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 6
+wait_on_run synth_1
+launch_runs impl_1 -jobs 6
+wait_on_run impl_1
+refresh_design

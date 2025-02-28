@@ -1,0 +1,11 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Programs/Xilinx_Windows_Unpacked_2022_2/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L xbip_utils_v3_0_10 -L c_reg_fd_v12_0_6 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_6 -L xbip_dsp48_addsub_v3_0_6 -L xbip_addsub_v3_0_6 -L c_addsub_v12_0_14 -L xbip_bram18k_v3_0_6 -L mult_gen_v12_0_18 -L axi_utils_v2_0_6 -L cordic_v6_0_18 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-2989] 'real_sin' is not declared [M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v:62]
+ERROR: [VRFC 10-2989] 'real_sin' is not declared [M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v:64]
+ERROR: [VRFC 10-2989] 'real_cos' is not declared [M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v:79]
+ERROR: [VRFC 10-2989] 'real_cos' is not declared [M:/2010/IVBO0722/ALEEV/sincos/sincos.srcs/sim_1/new/test.v:81]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

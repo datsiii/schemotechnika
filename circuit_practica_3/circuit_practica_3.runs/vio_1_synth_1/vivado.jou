@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Mar 28 20:10:30 2024
+# Process ID: 19556
+# Current directory: C:/Shemach/circuit_practica_3/circuit_practica_3.runs/vio_1_synth_1
+# Command line: vivado.exe -log vio_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vio_1.tcl
+# Log file: C:/Shemach/circuit_practica_3/circuit_practica_3.runs/vio_1_synth_1/vio_1.vds
+# Journal file: C:/Shemach/circuit_practica_3/circuit_practica_3.runs/vio_1_synth_1\vivado.jou
+# Running On: LAPTOP-UN75VGF2, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8432 MB
+#-----------------------------------------------------------
+source vio_1.tcl -notrace

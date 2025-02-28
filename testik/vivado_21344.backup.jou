@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Sep 17 09:32:21 2024
+# Process ID: 21344
+# Current directory: D:/me/UNI/5_semester/schemo2.0/testik
+# Command line: vivado.exe D:\me\UNI\5_semester\schemo2.0\testik\testik.xpr
+# Log file: D:/me/UNI/5_semester/schemo2.0/testik/vivado.log
+# Journal file: D:/me/UNI/5_semester/schemo2.0/testik\vivado.jou
+# Running On: DESKTOP-MHCIQLG, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 8, Host memory: 16869 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/me/UNI/5_semester/schemo2.0/testik/testik.xpr
+update_compile_order -fileset sources_1
+launch_simulation

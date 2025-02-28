@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/designs/clk_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/prac3_all_files/prac_4/prac_4.srcs/testbenches/test_clk_div_set/test_clk_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_clk_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/prac3_all_files/prac_4/prac_4.sim/test_clk_div_set/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

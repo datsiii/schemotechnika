@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/schemotechnika/testik/testik.gen/sources_1/ip/cordic_0/sim/cordic_0.vhd,1725883506,vhdl,,,,cordic_0,,,,,,,,
+D:/schemotechnika/testik/testik.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/schemotechnika/testik/testik.srcs/sim_1/new/test.v,1726817121,verilog,,,D:/schemotechnika/testik/testik.srcs/sources_1/new/maklaren.v,test,,,../../../../testik.srcs/sources_1/new,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/atan_table.vh,1725881468,verilog,,,,,,,,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/cordic.v,1726814197,verilog,,D:/schemotechnika/testik/testik.srcs/sources_1/new/trig_table.v,D:/schemotechnika/testik/testik.srcs/sources_1/new/atan_table.vh,cordic,,,../../../../testik.srcs/sources_1/new,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/cos_table.vh,1725279412,verilog,,,,,,,,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/maklaren.v,1726817349,verilog,,,,,,,,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/sin_table.vh,1725279410,verilog,,,,,,,,,,,,
+D:/schemotechnika/testik/testik.srcs/sources_1/new/trig_table.v,1725280286,verilog,,D:/schemotechnika/testik/testik.srcs/sim_1/new/test.v,D:/schemotechnika/testik/testik.srcs/sources_1/new/sin_table.vh;D:/schemotechnika/testik/testik.srcs/sources_1/new/cos_table.vh,trig_table,,,../../../../testik.srcs/sources_1/new,,,,,

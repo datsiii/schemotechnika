@@ -1,0 +1,20 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Shemach/PRAK3/lab_1.srcs/sources_1/new/clk_div.v,1709653823,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/filter.v,,clk_div,,,,,,,,
+C:/Shemach/PRAK3/lab_1.srcs/sources_1/new/seven_seg_led.v,1711644074,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/top.v,,seven_seg_led,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.gen/sources_1/ip/vio_0/sim/vio_0.v,1711562896,verilog,,C:/Shemach/PRAK3/lab_1.srcs/sources_1/new/clk_div.v,,vio_0,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sim_1/new/testbench.v,1711616580,verilog,,,,testbench,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/filter.v,1711553587,verilog,,C:/Shemach/pract_3/filter.v,,filter,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/fsm_div.v,1711646460,verilog,,C:/Shemach/pract_3/seven_seg.v,,fsm_div,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/main.v,1711621459,verilog,,C:/Shemach/PRAK3/lab_1.srcs/sources_1/new/seven_seg_led.v,,main,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/main_seg.v,1711634998,verilog,,,,seg_test,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/test_main.v,1711649949,verilog,,,,test_main,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/top.v,1711651631,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/via_test_top.v,,top,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/top_fsm_div.v,1711649314,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/test_main.v,,top_fsm_div,,,,,,,,
+C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/via_test_top.v,1711634977,verilog,,,,via_test_top,,,,,,,,
+C:/Shemach/pract_3/filter.v,1710364250,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/main.v,,FILTER,,,,,,,,
+C:/Shemach/pract_3/seven_seg.v,1710364250,verilog,,C:/Shemach/circuit_practica_3/circuit_practica_3.srcs/sources_1/new/top_fsm_div.v,,seven_seg,,,,,,,,
+C:/Shemach/pract_3/test_seven_seg.v,1710364250,verilog,,,,test_seven_seg,,,,,,,,

@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/schemotechnika/project_lab_1/project_lab_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/schemotechnika/project_lab_1/project_lab_1.srcs/sim_1/new/testbench.v,1710175584,verilog,,,,testbench,,,,,,,,
+D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/FILTER.v,1709653020,verilog,,D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/SevenSegmentLED.v,,FILTER,,,,,,,,
+D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/SevenSegmentLED.v,1710174865,verilog,,D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/clk_div.v,,SevenSegmentLED,,,,,,,,
+D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/clk_div.v,1709653816,verilog,,D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/main.v,,clk_div,,,,,,,,
+D:/schemotechnika/project_lab_1/project_lab_1.srcs/sources_1/new/main.v,1710323878,verilog,,D:/schemotechnika/project_lab_1/project_lab_1.srcs/sim_1/new/testbench.v,,main,,,,,,,,

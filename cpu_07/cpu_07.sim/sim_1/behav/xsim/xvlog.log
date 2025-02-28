@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/cpu_07/cpu_07.srcs/sources_1/new/cpu_pipeline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_pipeline
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'pc' is not allowed [D:/schemotechnika/cpu_07/cpu_07.srcs/sources_1/new/cpu_pipeline.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/cpu_07/cpu_07.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/cpu_07/cpu_07.srcs/sim_1/new/test_bench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_bench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/schemotechnika/cpu_07/cpu_07.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

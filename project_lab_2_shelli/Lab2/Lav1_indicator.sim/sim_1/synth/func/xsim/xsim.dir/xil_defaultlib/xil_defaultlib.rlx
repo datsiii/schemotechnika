@@ -1,0 +1,6 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/Vivado/Lab/Lab2/Lav1_indicator.sim/sim_1/synth/func/xsim/testbench_func_synth.v,1712247325,verilog,,E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/testbench.v,,Controller;SevenSegmentLED;cnt;cnt__parameterized0;cnt__parameterized0_3;cnt__parameterized0_5;cnt__parameterized0_7;debouncer;debouncer_0;debouncer_1;debouncer_2;divider;fsm;glbl;sync;sync_4;sync_6;sync_8,,,,,,,,
+E:/Vivado/Lab/Lab2/Lav1_indicator.srcs/sim_1/new/testbench.v,1712247309,verilog,,,,testbench,,,,,,,,
